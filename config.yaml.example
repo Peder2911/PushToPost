@@ -1,0 +1,6 @@
+con:
+   host: localhost
+   port: 5555
+   db: ged
+   user: iamthatiam 
+   password: knockknock 
